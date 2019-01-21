@@ -19,4 +19,5 @@ Launchpad
 
 Clone repo: git clone https://github.com/iSergio/IPMIView.app.git
 
-Download IPMIView from official SuperMicro site: https://www.supermicro.com/SwDownload/SwSelect_Free.aspx
+Download IPMIView from official SuperMicro site: https://www.supermicro.com/SwDownload/UserInfo.aspx?sw=0&cat=IPMI
+
