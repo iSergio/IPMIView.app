@@ -17,6 +17,10 @@ Launchpad
 
 ![separated](https://raw.githubusercontent.com/iSergio/IPMIView.app/master/images/Launchpad.png)
 
+Dock
+
+![separated](https://raw.githubusercontent.com/iSergio/IPMIView.app/master/images/dock.png)
+
 Clone repo: git clone https://github.com/iSergio/IPMIView.app.git
 
 Download IPMIView from official SuperMicro site: https://www.supermicro.com/SwDownload/UserInfo.aspx?sw=0&cat=IPMI
