@@ -5,4 +5,4 @@ JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/"
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd ${DIR}/../Resources/
-$JAVA_HOME/bin/java -jar IPMIView20.jar
+$JAVA_HOME/bin/java -Xdock:icon=AppIcon.icns -jar IPMIView20.jar
